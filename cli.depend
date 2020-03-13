@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1584130971 source:/home/logan/Documents/Code/C++/cli/main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<cstdio>
+	"VaderHandler.h"
+
+1584129870 /home/logan/Documents/Code/C++/cli/include/VaderHandler.h
+	<string>
+	<vector>
+	<stdarg.h>
+
+1584131369 source:/home/logan/Documents/Code/C++/cli/VaderHandler.cpp
+	"VaderHandler.h"
+	<algorithm>
+	<iostream>
+
+1584129870 /home/logan/Documents/Code/C++/cli/VaderHandler.h
+	<string>
+	<vector>
+	<stdarg.h>
+
